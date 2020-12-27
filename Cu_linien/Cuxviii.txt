@@ -1,0 +1,19 @@
+name energy
+cuxviii 1.1774 2
+cuxviii 3.002 3
+cuxviii 3.0104 4
+cuxviii 3.0325 5
+cuxviii 3.5238 2
+cuxviii 3.5356 2
+cuxviii 3.5394 3
+cuxviii 4.061 2
+cuxviii 4.0748 5
+cuxviii 4.077 4
+cuxviii 4.1134 6
+cuxviii 4.1173 3
+cuxviii 4.6781 1
+cuxviii 4.7012 2
+cuxviii 4.7585 3
+cuxviii 4.9451 3
+cuxviii 4.9490 4
+cuxviii 4.9558 4

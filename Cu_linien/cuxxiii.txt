@@ -1,0 +1,5 @@
+naem energy intensity
+CuxxIII 7.96 5
+CuxxIII 7.9664 20
+CuxxIII 8.0057 1
+CuxxIII 7.6076 1

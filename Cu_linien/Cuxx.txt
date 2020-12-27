@@ -1,0 +1,8 @@
+name energy 
+CuXX 1.283 9
+CuXX 1.257 6
+CuXX 1.174 7
+CuXX 1.159 10
+CuXX 1.138 8
+Cuxx 1.0653 5
+Cuxx 1.0598 4

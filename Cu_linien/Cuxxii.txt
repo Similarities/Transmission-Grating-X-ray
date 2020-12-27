@@ -1,0 +1,6 @@
+name energy intensity
+CuxxII  8.0666 2
+CuxxII 8.318 15
+CuxxII 7.751 30
+CuxxII 7.438 1
+CuxxII 6.543 1
